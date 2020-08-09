@@ -10,4 +10,4 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pnodet&layout=compact&hide=shell)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pnodet&hide=shell)](https://github.com/anuraghazra/github-readme-stats)
