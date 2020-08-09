@@ -1,6 +1,4 @@
-### Paul Nodet - pnodet
-
-## 
+# Paul Nodet - pnodet
 
 # Stats
 
