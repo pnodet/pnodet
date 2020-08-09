@@ -4,10 +4,10 @@
 
 ---
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pnodet&repo=macsetup)](https://github.com/pnodet/macsetup)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pnodet&repo=macsetup&show_owner=true)](https://github.com/pnodet/macsetup)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pnodet&repo=zsh-config)](https://github.com/pnodet/zsh-config)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pnodet&repo=zsh-config&show_owner=true)](https://github.com/pnodet/zsh-config)
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pnodet&layout=compact?hide=Shell)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pnodet&layout=compact&hide=shell)](https://github.com/anuraghazra/github-readme-stats)
