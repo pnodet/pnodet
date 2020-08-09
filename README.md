@@ -1,6 +1,6 @@
 # Paul Nodet - pnodet
 
-[![nodet's github stats](https://github-readme-stats.vercel.app/api?username=pnodet&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+[![nodet's github stats](https://github-readme-stats.vercel.app/api?username=pnodet&hide=stars&include_all_commits&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
