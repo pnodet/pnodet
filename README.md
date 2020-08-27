@@ -3,9 +3,7 @@
 <h1 align="center">Hi, 👋 I'm Paul 🚀</h1>
 <h3 align="center">A passionate strategist, working in the ad industry. I like big data and open-source projects.</h3>
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pnodet" alt="pnodet" /> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pnodet&show_icons=true" alt="pnodet" /></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=pnodet" alt="pnodet" /> </p>
 
 - 🔭 I’m currently working on [vizapp](https://app.vizapp.fr/)
 - 📫 How to reach me **paul.nodet@gmail.com**
