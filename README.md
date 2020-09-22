@@ -1,6 +1,6 @@
-# Paul Nodet - pnodet
+# Paul Nodet - pnxdxt
 
-<h1 align="center">Hi, I'm Paul / pnodet 👋</h1>
+<h1 align="center">Hi, I'm Paul / pnxdxt 👋</h1>
 
 <h3 align="center">⛅️</h3>
 <h3 align="center">During the day I work as a strategist in an ad agency. I study people and how they behave to help brands build their image, to communicate more efficiently.</h3>
