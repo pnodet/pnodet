@@ -17,4 +17,4 @@
 
 ---
 
-[![pnodet's github stats](https://github-readme-stats.vercel.app/api?username=pnodet&hide=stars&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/pnodet/github-readme-stats)
+
