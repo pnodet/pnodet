@@ -1,3 +1,1 @@
-### Hi, I'm pnxdxt 👋
-
-#### Nothing to see 👀
+### Hi, I'm Paul 👋
