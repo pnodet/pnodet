@@ -1,1 +1,3 @@
-### Hi, I'm Paul 👋
+### Paul
+
+Co-founder @ nivalis.studio
